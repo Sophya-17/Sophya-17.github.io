@@ -30,9 +30,9 @@ header {
     height: 550px;
     background: #86296b; 
     /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, hsla(340, 95%, 50%, 0.671), hsla(317, 45%, 52%, 0.664)), url(../PÁGINA\ WEB\ 2/img/portada.jpg);  
+    background: -webkit-linear-gradient(to right, hsla(340, 95%, 50%, 0.671), hsla(317, 45%, 52%, 0.664)), url(../Sophya-17.github.io/img/portada.jpg);  
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, hsla(340, 87%, 40%, 0.671), hsla(317, 49%, 43%, 0.664)), url(../PÁGINA\ WEB\ 2/img/portada.jpg);
+    background: linear-gradient(to right, hsla(340, 87%, 40%, 0.671), hsla(317, 49%, 43%, 0.664)), url(../Sophya-17.github.io/img/portada.jpg);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     background-size: cover;
     background-attachment: fixed;
